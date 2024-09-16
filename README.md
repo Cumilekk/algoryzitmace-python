@@ -1,1 +1,1 @@
-# algoryzitmace-python
+# opakovaniIT2python
